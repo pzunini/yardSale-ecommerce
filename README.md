@@ -1,5 +1,5 @@
-# yardSale-ecommerce
+# Yard Sale E-commerce
 
-Ecommerce site from Platzi's frontend practical course.
+E-commerce site from Platzi's frontend practical course.
 
-Here you will find all the files created while the course for develop a ecommerce website with HTML & CSS
+Here you will find all the files created while the course for develop a e-commerce website with HTML & CSS
