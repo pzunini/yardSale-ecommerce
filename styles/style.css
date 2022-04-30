@@ -187,7 +187,6 @@ body {
   margin-bottom: 24px;
   border-radius: 6px;
   padding: 0 24px;
-  border: 1px solid red;
 }
 
 .order p:nth-child(1) {
@@ -238,9 +237,8 @@ body {
   font-weight: bold;
 }
 
-
-
 /* my_order end*/
+
 
 .login {
   width: 100%;
