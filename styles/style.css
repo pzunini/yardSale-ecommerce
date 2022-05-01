@@ -236,9 +236,19 @@ body {
   font-size: var(--md);
   font-weight: bold;
 }
-
 /* my_order end*/
 
+
+/* my orders cart*/
+.my-orders {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 12px;
+  background-color: var(--white);
+}
+/* my orders cart*/
 
 .login {
   width: 100%;
