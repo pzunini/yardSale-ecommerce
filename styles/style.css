@@ -232,6 +232,25 @@ nav .menu {
 /*main cards end*/
 
 
+/* product detail */
+.product-detail {
+  width: 360px;
+  padding-bottom: 24px;
+}
+
+.product-detail>img:nth-child(1) {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+}
+
+.product-detail > img:nth-child(1):hover {
+  cursor: pointer;
+}
+
+/* product detail ends */
+
+
 /* my_order */
 .my-order {
   width: 100%;
@@ -427,6 +446,9 @@ nav .menu {
   font-weight: bold;
   height: 50px;
   margin-top: 20px;
+  display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .primary-button:hover {
