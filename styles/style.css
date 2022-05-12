@@ -312,8 +312,6 @@ nav .menu {
   margin-bottom: 36px;
 }
 
-
-
 /* product detail ends */
 
 
@@ -411,7 +409,35 @@ nav .menu {
   margin-bottom: 12px;
   background-color: var(--white);
 }
-/* my orders cart*/
+/* my orders cart ends*/
+
+
+/* aside shopping cart*/
+.aside-title {
+  font-size: var(--lg);
+  font-weight: bold;
+}
+
+.aside-product-detail {
+  box-sizing: border-box;
+  padding: 0px 24px 0 24px;
+}
+
+.title-container {
+  display: flex;
+}
+
+.title-container img {
+  transform: rotate(180deg);
+  margin-right: 16px;
+  margin-left: 5px;
+}
+
+.aside-product-button {
+  margin-bottom: 20px;
+}
+
+/* aside shopping cart ends*/
 
 .login {
   width: 100%;
@@ -445,6 +471,7 @@ nav .menu {
   font-size: var(--lg);
   margin-bottom: 30px;
   text-align: center;
+  font-weight: bold;
 }
 
 .subtitle {
